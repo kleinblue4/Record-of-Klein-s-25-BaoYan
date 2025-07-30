@@ -41,18 +41,18 @@
 
 当时夏令营是5月末那会就开始，但是当时开的比较少，但对我i来说也算适合。最终夏令营的大体情况如下，其中一些院校我给了一些我觉得可以给的文件或材料，以供参考：
 
-| 院校 | 入营情况 | 参考材料 |
-|:---:|:---:| :---: |
-| 中山大学软件学院 | &#x2705; | [论文研读范围](./中山大学-软件学院/中山大学-论文研读范围/) |
-| 中山大学AI学院 | &#x2705; | [夏令营通知](https://sai.sysu.edu.cn/article/585) |
-| 山东大学软件学院 | &#x2705; | [夏令营通知](https://www.sc.sdu.edu.cn/info/1019/5357.htm) / [iLearn 实验室](https://ilearn.qd.sdu.edu.cn/) |
-| 厦门大学 | &#x274c;(其实压根没报名) | [夏令营通知](https://informatics.xmu.edu.cn/info/1050/45710.htm) / [MAC 实验室](https://mac.xmu.edu.cn/) |
-| 浙江大学软件学院 | &#x2705; | [夏令营通知](http://www.cst.zju.edu.cn/2025/0606/c36207a3059270/page.htm) |
-| 南开大学AI学院 | &#x274c; | [夏令营通知](https://ai.nankai.edu.cn/info/1024/6242.htm) |
-| 武汉大学AI学院 | &#x274c; | [夏令营通知](https://sai.whu.edu.cn/info/1601/8151.htm) |
-| 南航开放日 | &#x2705; | [夏令营通知及活动安排](./南京航空航天大学/) |
-| 北航软件学院 | &#x274c;(其实压根没报名) | [夏令营通知](https://soft.buaa.edu.cn/news_nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1117&wbnewsid=11912) |
-| 北师 AI 院 | &#x274c;(其实压根没报名) | [夏令营通知](https://ai.bnu.edu.cn/ggjxz/tzgg/6dc74824e7f64fd888a456db6cade219.htm) / [夏令营活动介绍](https://ai.bnu.edu.cn/ggjxz/xyxw/7f56f151d32847aa8e87b7ba280c976d.htm) |
+| 院校 | 入营情况 | 参考材料 | 跳转链接 |
+|:---:|:---:| :---: | :---: |
+| 中山大学软件学院 | &#x2705; | [论文研读范围](./中山大学-软件学院/中山大学-论文研读范围/) | [Link](#中山大学软件学院) |
+| 中山大学AI学院 | &#x2705; | [夏令营通知](https://sai.sysu.edu.cn/article/585) | [Link](#中山大学-ai-学院) |
+| 山东大学软件学院 | &#x2705; | [夏令营通知](https://www.sc.sdu.edu.cn/info/1019/5357.htm) / [iLearn 实验室](https://ilearn.qd.sdu.edu.cn/) | [Link](#山东大学软件学院) |
+| 厦门大学 | &#x274c;(其实压根没报名) | [夏令营通知](https://informatics.xmu.edu.cn/info/1050/45710.htm) / [MAC 实验室](https://mac.xmu.edu.cn/) | [Link](#厦门大学) |
+| 浙江大学软件学院 | &#x2705; | [夏令营通知](http://www.cst.zju.edu.cn/2025/0606/c36207a3059270/page.htm) | [Link](#浙江大学软件学院) |
+| 南开大学AI学院 | &#x274c; | [夏令营通知](https://ai.nankai.edu.cn/info/1024/6242.htm) | [Link](#南开大学-ai--武汉大学-ai) |
+| 武汉大学AI学院 | &#x274c; | [夏令营通知](https://sai.whu.edu.cn/info/1601/8151.htm) | [Link](#南开大学-ai--武汉大学-ai) |
+| 南航开放日 | &#x2705; | [夏令营通知及活动安排](./南京航空航天大学/) | [Link](#南航开放日) |
+| 北航软件学院 | &#x274c;(其实压根没报名) | [夏令营通知](https://soft.buaa.edu.cn/news_nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1117&wbnewsid=11912) | [Link](#北京航空航天大学软件学院) |
+| 北师 AI 院 | &#x274c;(其实压根没报名) | [夏令营通知](https://ai.bnu.edu.cn/ggjxz/tzgg/6dc74824e7f64fd888a456db6cade219.htm) / [夏令营活动介绍](https://ai.bnu.edu.cn/ggjxz/xyxw/7f56f151d32847aa8e87b7ba280c976d.htm) | [Link](#北京师范-ai-院) |
 
 总体来看，大部分还是入营的，因为我报的大多是和自己实力匹配的院校，所以相对体验还比较友好。
 
